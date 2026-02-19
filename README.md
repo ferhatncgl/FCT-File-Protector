@@ -2,6 +2,8 @@
 
 A high-security, professional-grade directory encryption tool built with Python. It utilizes industry-standard **AES-256-GCM** for encryption and **Argon2id** for key derivation, ensuring your data remains inaccessible even under reverse engineering or brute-force attempts.
 
+<img width="541" height="572" alt="resim" src="https://github.com/user-attachments/assets/14bd33e8-87c1-41d1-a191-f53994373bd2" />
+
 ## ✨ Features
 - **Modern UI:** Sleek dark-themed interface powered by CustomTkinter.
 - **Drag & Drop:** Easily encrypt/decrypt folders and files by dropping them into the app.
