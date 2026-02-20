@@ -1,5 +1,8 @@
 # 🛡️ FCT File Protector
 
+
+HOW TO USE GUIDE: https://youtu.be/4GsUzqp1UDc
+
 A high-security, professional-grade directory encryption tool built with Python. It utilizes industry-standard **AES-256-GCM** for encryption and **Argon2id** for key derivation, ensuring your data remains inaccessible even under reverse engineering or brute-force attempts.
 
 <img width="541" height="572" alt="resim" src="https://github.com/user-attachments/assets/14bd33e8-87c1-41d1-a191-f53994373bd2" />
@@ -18,6 +21,9 @@ A high-security, professional-grade directory encryption tool built with Python.
 - **File Integrity:** Automatically verified via GCM Authentication Tags.
 
 ## 🚀 Installation (For Developers)
+
+How to install andd run FCT File Protector in Terminal: https://www.youtube.com/watch?v=LuDDeCtuyYY
+
 1. Clone the repository:
 
 ```bash
